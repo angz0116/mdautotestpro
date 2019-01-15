@@ -1,0 +1,21 @@
+2019-01-11 18:18:13,980 - INFO - ********TEST START********
+2019-01-11 18:18:13,981 - INFO - 您选择的浏览器是： Chrome browser.
+2019-01-11 18:18:16,638 - INFO - Starting Chrome browser.
+2019-01-11 18:18:16,645 - INFO - 第一步************************incomapply.py，进件管理-进件申请，11047165，杨元奇
+2019-01-11 18:18:16,645 - INFO - 获取URL地址是: http://dkjc3.jieyuechina.com/loan/user/caslogin
+2019-01-11 18:18:39,269 - INFO - 打开URL地址: http://dkjc3.jieyuechina.com/loan/user/caslogin
+2019-01-11 18:18:40,434 - INFO - Maximize the current window.
+2019-01-11 18:18:40,434 - INFO - Set implicitly wait 10 seconds.
+2019-01-11 18:21:50,468 - INFO - 进件申请-进件编号-全局变量：120154629694
+2019-01-11 18:22:02,400 - INFO - Now, Close and quit the browser.
+2019-01-11 18:22:04,827 - INFO - 您选择的浏览器是： Chrome browser.
+2019-01-11 18:22:07,619 - INFO - Starting Chrome browser.
+2019-01-11 18:22:07,619 - INFO - 第二步************************crossvalida.py，进件管理-交叉质检，10011403，苗双伟
+2019-01-11 18:22:07,629 - INFO - 通过第一步进件申请，得到进件编号：120154629694
+2019-01-11 18:22:07,629 - INFO - 获取URL地址是: http://dkjc3.jieyuechina.com/loan/user/caslogin
+2019-01-11 18:22:29,835 - INFO - 打开URL地址: http://dkjc3.jieyuechina.com/loan/user/caslogin
+2019-01-11 18:22:30,973 - INFO - Maximize the current window.
+2019-01-11 18:22:30,974 - INFO - Set implicitly wait 10 seconds.
+2019-01-11 18:23:25,677 - INFO - Now, Close and quit the browser.
+2019-01-11 18:23:27,986 - INFO - *********TEST END*********
+2019-01-11 18:23:27,986 - INFO - 不能发送邮件，因为on_off = 'off'

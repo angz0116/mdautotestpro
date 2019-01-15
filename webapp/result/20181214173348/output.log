@@ -1,0 +1,6 @@
+2018-12-14 17:33:48,223 - INFO - 您选择的浏览器是： Chrome browser.
+2018-12-14 17:33:50,630 - INFO - Starting Chrome browser.
+2018-12-14 17:33:50,631 - INFO - 获取URL地址是: http://172.18.100.212:8080/loan/user/caslogin
+2018-12-14 17:33:52,270 - INFO - 打开URL地址: http://172.18.100.212:8080/loan/user/caslogin
+2018-12-14 17:33:53,389 - INFO - Maximize the current window.
+2018-12-14 17:33:53,389 - INFO - Set implicitly wait 10 seconds.
